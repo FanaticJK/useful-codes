@@ -9,3 +9,9 @@ Validate email using regex
 ###################
 
 This file contains a code that uses regex to check if the email is filled and is a valid email.
+
+###################
+Date calculator
+###################
+
+This file contains a code that takes two dates and finds difference between those dates and displays appropriate result.

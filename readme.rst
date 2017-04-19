@@ -15,3 +15,9 @@ Date calculator
 ###################
 
 This file contains a code that takes two dates and finds difference between those dates and displays appropriate result.
+
+###################
+Blank Theme ready to go function
+###################
+
+This is a basic function that is used in the blank theme that I use.

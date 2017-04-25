@@ -27,3 +27,9 @@ Custom Breadcrum Wordpress
 ###################
 
 This is a custom breadcrum for wordpress.
+
+###################
+Dynamic Input Field
+###################
+
+It creates dynamic input=text with remove functionality.

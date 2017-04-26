@@ -33,3 +33,9 @@ Dynamic Input Field
 ###################
 
 It creates dynamic input=text with remove functionality.
+
+###################
+Visitor Counter for php/wordpress
+###################
+
+It counts the page visited by using session.

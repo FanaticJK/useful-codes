@@ -39,3 +39,9 @@ Visitor Counter for php/wordpress
 ###################
 
 It counts the page visited by using session.
+
+###################
+wordpress category image
+###################
+
+It gives option in category addition page to add/edit image.
